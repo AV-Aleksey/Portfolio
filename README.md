@@ -4,14 +4,14 @@
 
 
 1.[Fridge](https://openweathermap.org/api) -  Web приложение для отслеживания испорченных продуктов в холодильнике, с подбором рецептов исходя из содержимого холодильника
-Технологии: React, React-Bootstrap, Redux, Express, MongoDB
-Срок реализации: 7 дней
-Командный проект (4 человека)
+* Технологии: React, React-Bootstrap, Redux, Express, MongoDB
+* Срок реализации: 7 дней
+* Командный проект (4 человека)
 
 2.[Friend4Heart](https://openweathermap.org/api) - Проект реализовывался в рамках хакатона VirusHack. Web приложение для подбора рекомендаций по уходу за людьми перенесшими инсульт. 
-Технологии: Express, MongoDB
-Срок реализации: 2 дня
-Командный проект (3 человека)
+* Технологии: Express, MongoDB
+* Срок реализации: 2 дня
+* Командный проект (3 человека)
 
 3.[Telegram бот](https://openweathermap.org/api) - Проект реализован для telegram сообщества  [Ivliev.Post](https://t.me/IvlievPost). Бот информатор курса криптовалют BTC, ETH
 Технологии: Python, Telegram API, beautifulsoup4
