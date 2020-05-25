@@ -14,39 +14,39 @@
 * Командный проект (3 человека)
 
 3.[Telegram бот](https://openweathermap.org/api) - Проект реализован для telegram сообщества  [Ivliev.Post](https://t.me/IvlievPost). Бот информатор курса криптовалют BTC, ETH
-Технологии: Python, Telegram API, beautifulsoup4
-Срок реализации: 2 дня
-Соло проект
+* Технологии: Python, Telegram API, beautifulsoup4
+* Срок реализации: 2 дня
+* Соло проект
 
 4.[Онлайн-чат](https://openweathermap.org/api) - Проект реализован для сайта с целью расширения функцианала.
-Технологии: Express, Socket IO
-Срок реализации: 2 дня
-Соло проект
+* Технологии: Express, Socket IO
+* Срок реализации: 2 дня
+* Соло проект
 
 5.[Мониторинг оборудования](https://openweathermap.org/api) - Проект реализован для компании производящей отопительные системы. Приложение отображает показатели температурных датчиков.
-Технологии: PHP, AJAX
-Срок реализации: 2 дня
-Соло проект
+* Технологии: PHP, AJAX
+* Срок реализации: 2 дня
+* Соло проект
 
 6. [Сайт pool-taxi](https://openweathermap.org/api) - Web сайт для продажи услуг аренды авто в такси. 
-Технологии: jQuery, WordPress, Bootstrap 4
-Срок реализации: 4 дня
-Соло проект
+* Технологии: jQuery, WordPress, Bootstrap 4
+* Срок реализации: 4 дня
+* Соло проект
 
 7. [Сайт holod-ok](https://openweathermap.org/api) - Web сайт по продаже услуг ремонта холодильной техники.
-Технологии: jQuery, WordPress, Bootstrap 4
-Срок реализации: 3 дня
-Соло проект
+* Технологии: jQuery, WordPress, Bootstrap 4
+* Срок реализации: 3 дня
+* Соло проект
 
 8. [Сайт VolCar](https://openweathermap.org/api) - Web сайт по продаже услуг сдачи авто в аренду 
-Технологии: jQuery, WordPress, Bootstrap 4
-Срок реализации: 5 дней
-Соло проект
+* Технологии: jQuery, WordPress, Bootstrap 4
+* Срок реализации: 5 дней
+* Соло проект
 
 9. [Todo list](https://openweathermap.org/api)  - Приложение для iOS, позволяющее создавать список дел. 
-Технологии: React-Native
-Срок реализации: 1 день
-Соло проект
+* Технологии: React-Native
+* Срок реализации: 1 день
+* Соло проект
 
 
 ![days](readme-assets/days.png)
