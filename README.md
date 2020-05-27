@@ -4,7 +4,7 @@
 
 ## Работы Elbrus Bootcamp
 
-1. [Fridgy](http://fridgy-2020.herokuapp.com/) -  Web приложение для отслеживания испорченных продуктов в холодильнике, с подбором рецептов исходя из содержимого холодильника
+1. [Fridgy](https://github.com/AV-Aleksey/fridgy) -  Web приложение для отслеживания испорченных продуктов в холодильнике, с подбором рецептов исходя из содержимого холодильника
 * Heroku: http://fridgy-2020.herokuapp.com/
 * Технологии: React, React-Bootstrap, Redux, Express, MongoDB
 * Срок реализации: 7 дней
